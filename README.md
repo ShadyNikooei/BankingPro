@@ -69,19 +69,12 @@ The app seeds two sample accounts at startup:
 
 ## Screenshots
 
-Add screenshots for your repo:
-
-```
-/screenshots/
-   ui-main.png
-   ui-transaction-history.png
-```
-
 Markdown example:
 ```md
-## Screenshot
+## Screenshots
 
 ![Main UI](./ui-main.png)
+
 
 
 ```
