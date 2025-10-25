@@ -70,14 +70,10 @@ The app seeds two sample accounts at startup:
 ## Screenshots
 
 Markdown example:
-```md
-## Screenshots
 
 ![Main UI](./ui-main.png)
 
 
-
-```
 
 **Tips for a great shot**
 - Window around 1200×750  
