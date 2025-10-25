@@ -1,0 +1,20 @@
+﻿# IntelliJ
+.idea/
+*.iml
+
+# Build outputs
+out/
+target/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Java
+*.class
+
+# Screenshots
+screenshots/*.psd
