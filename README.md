@@ -79,10 +79,10 @@ Add screenshots for your repo:
 
 Markdown example:
 ```md
-## Screenshots
+## Screenshot
 
 ![Main UI](screenshots/ui-main.png)
-![History](screenshots/ui-transaction-history.png)
+
 ```
 
 **Tips for a great shot**
