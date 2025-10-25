@@ -81,7 +81,8 @@ Markdown example:
 ```md
 ## Screenshot
 
-![Main UI](ui-main.png)
+![Main UI](./ui-main.png)
+
 
 ```
 
